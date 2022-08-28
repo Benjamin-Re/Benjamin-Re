@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Fulstack Web Development at CodespaceAcademy.
-- 👯 I’m looking to collaborate on easy projects.
-- 🫀Programming, Software Testing
-
+- I have build projects in Java and Javascript
+- I'm currently learning about using Jest with React
+- I'm located in Malaga
 
 <!--
 **Benjamin-Re/Benjamin-Re** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
