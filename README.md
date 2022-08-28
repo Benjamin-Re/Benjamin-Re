@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I have build projects in Java and Javascript
+- I build projects in Java and Javascript
 - I'm currently learning about using Jest with React
 - I'm located in Malaga
 
