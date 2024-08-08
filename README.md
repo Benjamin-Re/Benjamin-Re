@@ -1,6 +1,6 @@
 ### Hi there 👋
 - I build projects in Java and Javascript
-- I'm currently learning about using Jest with React
+- I'm currently learning about React
 - I'm located in Malaga
 
 <!--
