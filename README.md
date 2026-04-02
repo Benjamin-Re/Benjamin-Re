@@ -1,6 +1,6 @@
 ### Hi there 👋
-- I build projects in Java and Javascript
-- I'm currently learning about React
+- Javascript enjoyer
+- I'm currently learning about Express
 - I'm located in Malaga
 
 <!--
